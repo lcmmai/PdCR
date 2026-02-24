@@ -1,0 +1,12 @@
+base dice: 98.50746393203735
+pos: 242, neg: 262, zero: 504
+pos: 24.01, neg: 25.99, zero: 50.0
+to -3_num: 0
+-3 to -1_num: 5
+-1 to -0.3_num: 23
+-0.3 to -0.02_num: 234
+-0.02 to 0.02_num: 520
+0.02 to 0.3_num: 242
+0.3 to 1_num: 0
+1 to 3_num: 0
+3 to_num: 0
