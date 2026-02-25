@@ -1,6 +1,7 @@
 # PdCR
 
 Code for the paper **"Leveraging Causal Reasoning Method for Explaining Medical Image Segmentation Models"**.
+[![arXiv](https://img.shields.io/badge/arXiv-2602.20511-b31b1b.svg)](https://www.arxiv.org/abs/2602.20511)
 
 <img src="asset/workflow.jpg" alt="workflow" style="width: 70%;"/>
 
@@ -87,3 +88,4 @@ python main_one_image.py \
   --top_left_i 72 \
   --top_left_j 88
 ```
+
